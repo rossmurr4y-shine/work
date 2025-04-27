@@ -1,7 +1,7 @@
 ---
-name: Self Development Task
-about: A self development activity or task
-title: Self Development Task
+name: 'Project: Self Development'
+about: A task or activity related to my self development.
+title: 'Project: Self Development'
 labels: '[Self]'
 assignees: rossmurr4y-shine
 

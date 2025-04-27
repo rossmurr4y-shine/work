@@ -1,7 +1,7 @@
 ---
-name: Work Item [UNSW]
-about: UNSW Project Task
-title: UNSW Project Task
+name: 'Project: UNSW'
+about: A task or activity related to UNSW client projects.
+title: 'Project: UNSW'
 labels: '[UNSW]'
 assignees: rossmurr4y-shine
 

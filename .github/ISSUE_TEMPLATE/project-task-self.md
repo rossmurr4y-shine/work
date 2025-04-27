@@ -1,8 +1,8 @@
 ---
-name: Work Item (Single)
-about: Single Work Item
-title: New Work Item (Single)
-labels: ''
+name: Self Development Task
+about: A self development activity or task
+title: Self Development Task
+labels: '[Self]'
 assignees: rossmurr4y-shine
 
 ---
@@ -11,8 +11,7 @@ assignees: rossmurr4y-shine
 
 <!-- describe work item here -->
 
-## Links (optional)
-
+<!-- optional links - delete if not required -->
 - Link
 - Link
 - Link

@@ -4,6 +4,7 @@ about: A task or activity related to my self development.
 title: 'Project: Self Development'
 labels: '[Self]'
 assignees: rossmurr4y-shine
+projects: ["rossmurr4y-shine/2"]
 
 ---
 

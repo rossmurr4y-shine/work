@@ -4,7 +4,7 @@ about: A task or activity related to UNSW client projects.
 title: 'Project: UNSW'
 labels: '[UNSW]'
 assignees: rossmurr4y-shine
-
+projects: ["rossmurr4y-shine/2"]
 ---
 
 # Description

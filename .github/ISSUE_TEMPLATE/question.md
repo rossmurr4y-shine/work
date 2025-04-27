@@ -4,7 +4,7 @@ about: Question to be answered before other work can proceed
 title: 'RE: {question subject}'
 labels: Q&A
 assignees: rossmurr4y-shine
-
+projects: ["rossmurr4y-shine/2"]
 ---
 
 # Question
